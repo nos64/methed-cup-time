@@ -14,4 +14,4 @@ const Product = ( { product : { image, title, price } }) => {
   );
 };
 
-export { Product} ;
+export { Product };
